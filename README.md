@@ -1,0 +1,1 @@
+# template_cpp_static_library
