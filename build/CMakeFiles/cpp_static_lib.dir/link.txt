@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcpp_static_lib.a CMakeFiles/cpp_static_lib.dir/src/calculator.cpp.o
+/usr/bin/ranlib libcpp_static_lib.a
